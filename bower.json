@@ -1,0 +1,21 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Andrew Cho <cho-andrew@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Andychochocho/angular-practice",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
